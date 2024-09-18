@@ -1,7 +1,7 @@
 # Capstone Overview
 
-In this capstone course, you will apply various machine learning
-knowledge and skills that you have learned as part of the previous
+In this capstone course, I applied various machine learning
+knowledge and skills that I have learned as part of the previous
 courses to solve some real-world industrial challenges.
 
 ## Project Scenario
@@ -29,14 +29,13 @@ main focus at this moment is to explore and compare various machine
 learning models and find one with the best performance in off-line
 evaluations.
 
-## Your Tasks
+## Workflow
 
-Your tasks in this project are summarized in the following workflow, and
-you will be guided through them in hands-on labs.
+In this project tasks are summarized in the following workflow
 
 ![Workflow](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-ML321EN-SkillsNetwork/labs/module_1/images/workflow.png)
 
-More specifically, you will undertake the tasks of:
+More specifically, I undertook the tasks of:
 
 - Collecting and understanding data
 - Performing exploratory data analysis on online course enrollments
@@ -55,28 +54,10 @@ More specifically, you will undertake the tasks of:
 - Creating an insightful and informative slideshow and presenting it
     to your peers
 
-If you have extra bandwidth, you can also deploy and demonstrate your
-models via a web app built with `streamlit`. `Streamlit` is an
-open-source app framework for Machine Learning and Data Science to
-quickly demonstrate their works.
 
-Your course recommender app where you select different recommendation
-models and generate recommendations, may look like the following
-screenshot:
-![Recommendations](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-ML321EN-SkillsNetwork/labs/module_1/images/streamlit.png)
+This project is a great opportunity to showcase my machine learning
+skills, and demonstrate my proficiency to potential employers.
 
-This project is a great opportunity to showcase your machine learning
-skills, and demonstrate your proficiency to potential employers.
-
-## Grading Schema
-
-- Graded Quizzes: **30 pts**
-- Final presentation, peer-review: **70 pts**
-
-## Development Environments
-
-In this project, you have at least three development environments you
-may choose from:
 
 ## Skills Network Labs
 
@@ -91,33 +72,18 @@ may install Python and JupyterNotebook / JupyterLab on your own
 environments like a desktop or laptop computer. All the notebooks and
 data used in the capstone can be downloaded and executed locally.
 
-## Watson Studio
-
-For this project, you will use Watson Studio as your main development
-environment. Watson Studio is a component of IBM Cloud Pak for Data, is
-a suite of tools and a collaborative environment for data scientists,
-data analysts, AI and machine learning engineers, and domain experts to
-develop and deploy your projects.
-
-## Next Steps
-
-Now you should have a basic understanding of this capstone project.
-
-In the next step of your project, you will start with collecting and
-exploring the datasets.
 
 ### Author(s)
 
 <a
-href="https://www.linkedin.com/in/yan-luo-96288783/?utm_medium=Exinfluencer&amp;utm_source=Exinfluencer&amp;utm_content=000026UJ&amp;utm_term=10006555&amp;utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMML321ENSkillsNetwork32585014-2022-01-01"
-target="_blank" rel="external">Yan Luo</a>
+href="https://github.com/Adham011"
+target="_blank" rel="external">Adham Ashraf</a>
 
-### Other Contributor(s)
 
 ## Changelog
 
 | Date       | Version | Changed by              | Change Description |
 |------------|---------|-------------------------|--------------------|
-| 2022-03-18 | 1.0     | Initial version created |                    |
+| 2024-08-19 | 1.0     | Initial version created |                    |
 |            |         |                         |                    |
 |            |         |                         |                    |
